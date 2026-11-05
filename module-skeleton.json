@@ -1,0 +1,15 @@
+{
+  "repository": "module-billing-virtualmin-vue-inertia",
+  "capabilityKey": "liberusoftware/billing-virtualmin",
+  "presentation": "laravel-inertia-vue",
+  "package": "@liberusoftware/module-billing-virtualmin-vue-inertia",
+  "foundation": "module-boilerplate-vue-inertia",
+  "foundationCommit": "08a9dc0d2b45a95f966c7dcb8d47db96dee957d2",
+  "canonicalPlan": "projects/billing/nextjs/module-billing-virtualmin.md",
+  "presentationPlan": "projects/billing/vue/module-billing-virtualmin.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "billing"
+  ]
+}
